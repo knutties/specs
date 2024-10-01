@@ -11,13 +11,13 @@ This document will capture the following details about the Finternet system.
 ## Tenets (aka Guiding principles)
 
 1. Privacy, Security, Verifiability, Portability, Integrity
-1. Scalability, modularity, performance
+1. Scalability, Modularity, Performance
 
 ## Functional architecture diagram
 
-## Layered Architecture Diagram
+![Functional Architecture](images/finternet.drawio.png?raw=true "Funtional Architecture")
 
-## Glossary terminology
+### Glossary terminology
 
 ## Working Groups
 
