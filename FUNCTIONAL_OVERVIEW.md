@@ -4,8 +4,8 @@ This document will capture the following details about the Finternet system.
 
 1. Tenets (aka) Guiding principles
 1. Functional Architecture diagram that powers the Finternet
-1. Glossary of key terms
-1. Tracks
+    1. Entity Glossary
+1. Working Groups
 
 ## Tenets (aka Guiding principles)
 
@@ -28,7 +28,7 @@ and [technology vision](http://bit.ly/finternet-tech) documents.
 
 ![Functional Architecture](images/finternet.drawio.png?raw=true "Funtional Architecture")
 
-### Entity
+### Entity Glossary
 
 This section will detail out the entities that are involved in typical Finternet
 flows.
