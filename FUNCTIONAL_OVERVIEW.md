@@ -54,11 +54,11 @@ flows.
   class, uniquely identifiable on the ledger. For example, one unit of a
   security, a particular piece of property, or a single digital collectible
   would each be considered an instance.
-* **Asset Rule Set / Policies* - Policies/Workflows that token managers attach to
+* **Asset Rule Set / Policies** - Policies/Workflows that token managers attach to
   asset classes to be executed on specific actions.
 * **Credential Manager** - An entity or service provider responsible for issuing,
   managing, and governing credentials on the ledger.
-* **Credential Class* - A broad category or type of credential that serves as a
+* **Credential Class** - A broad category or type of credential that serves as a
   irrepudiable proof.
 * **Credential Instance** - A representation of a credential within a class.  A
   digitally signed proof, issued by a trusted authority, that verifies
