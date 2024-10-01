@@ -93,7 +93,7 @@ flows.
   allows users, token managers, credential managers to participate in
   transaction flows.
 
-## Working Groups
+## Working Groups (aka Tracks)
 
 1. Core Architecture Working Group - over-arching group that co-ordinates work
    across all tracks
