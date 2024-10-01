@@ -67,7 +67,7 @@ flows.
   participants in Finternet transactions.
 * **Transfer Manager / Interop Manager** - An entity which facilitates transfer of
   assets between any two systems that adhere to the Inter Ledger Protocol.
-* **Transaction* - A structured data entity representing an asset/thing-related
+* **Transaction** - A structured data entity representing an asset/thing-related
   action within Finternet. It contains all necessary information, such as
   participants, asset details, and verifiable credentials, required to execute a
   transaction. The transaction object ensures standardization, traceability, and
