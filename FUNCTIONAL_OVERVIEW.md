@@ -12,7 +12,7 @@ which is the core component of the Finternet eco-system.
 
 The architectural and technological choices that are used to design the systems
 powering the Finternet should adhere to the following tenets (aka guiding
-principles).  These principles are also detailed in the
+principles).  These design principles are also detailed in the
 [vision](http://bit.ly/finternet-vision) and [technology
 vision](http://bit.ly/finternet-tech) documents.
 
@@ -23,8 +23,7 @@ vision](http://bit.ly/finternet-tech) documents.
 1. Scalability
 1. Division of labour and competition
 1. Inclusiveness and accessibility
-1. Security and privacy (might want to add integrity and verifiability to this)
-1. Resiliency (this is an additional one)
+1. Security and privacy
 
 ## Functional architecture diagram
 
@@ -34,8 +33,6 @@ vision](http://bit.ly/finternet-tech) documents.
 
 This section will detail out the entities that are involved in typical Finternet
 flows.
-
-* **Unified Ledger**
 
 * **Legal Person** - Representation of individuals, businesses, or
   entities on the unified ledger. This entity can in turn create one of more
@@ -92,9 +89,14 @@ flows.
   application agnostic access to a user’s assets, ensuring consistent and secure
   authorization across different platforms and services.
 
+* **Unified Ledger (UL)** The over-arching component in the Finternet eco-system that
+  allows users, token managers, credential managers to participate in
+  transaction flows.
+
 ## Working Groups
 
-1. Core Architecture Working Group
+1. Core Architecture Working Group - over-arching group that co-ordinates work
+   across all tracks
 1. Inter Ledger Protocol
 1. Immutable Proof Store
 1. UL Txn Ledger / Smart Contract Infra
@@ -102,6 +104,16 @@ flows.
     1. ETH track
     1. Ledger Adapter
 1. User (Legal Person) Management (key/signing/PII)
-1. ULI API Services
+1. Unified Ledger - API Services
     1. Management services
     1. Transaction services
+1. Canonical Apps
+    1. Money App
+    1. Property App
+    1. Wallet App
+1. Use Cases
+    1. Property
+    1. Domestic Money
+    1. International Money
+1. Tenets Experts Track (people who can give guidance on principles like privacy,
+   performance, scale etc.)
