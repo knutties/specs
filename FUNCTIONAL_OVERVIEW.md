@@ -1,6 +1,7 @@
-# Finternet - Principles, Functional Architecture and Working Groups
+# Unified Ledger - Principles, Functional Architecture and Working Groups
 
-This document will capture the following details about the Finternet system.
+This document will capture the following details about the Unified Ledger -
+which is the core component of the Finternet eco-system.
 
 1. Tenets (aka) Guiding principles
 1. Functional Architecture Diagram that powers the Finternet
