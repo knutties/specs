@@ -27,7 +27,7 @@ vision](http://bit.ly/finternet-tech) documents.
 
 ## Functional architecture diagram
 
-![Functional Architecture](images/finternet.drawio.png?raw=true "Funtional Architecture")
+![Functional Architecture](images/finternet.drawio.png?raw=true "Functional Architecture")
 
 ### Entity Glossary
 
