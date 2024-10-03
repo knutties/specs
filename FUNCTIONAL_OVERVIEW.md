@@ -107,6 +107,7 @@ flows.
 1. Unified Ledger - API Services
     1. Management services
     1. Transaction services
+1. Schema registry (GitHub based schema repository)
 1. Canonical Apps
     1. Money App
     1. Property App
