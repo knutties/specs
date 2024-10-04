@@ -34,7 +34,10 @@ vision](http://bit.ly/finternet-tech) documents.
 This section will detail out the entities that are involved in typical Finternet
 flows.
 
-* **Legal Person** - Representation of individuals, businesses, or
+* **Person Type** - Types of persons that are supported in the ecosystem.  Eg.
+  normal persons, institutions etc.
+
+* **Person** - Representation of individuals, businesses, or
   entities on the unified ledger. This entity can in turn create one of more
   sub-entities - token manager, credential manager or accounts. These
   sub-entities can initiate transactions, issue assets, or perform activities on
