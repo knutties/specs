@@ -98,8 +98,8 @@ flows.
 
 ## Working Groups (aka Tracks)
 
-1. Core Architecture Working Group - over-arching group that co-ordinates work
-   across all tracks
+1. Architecture Working Groups
+    1. Core Architecture
     1. Immutable Proof Store
     1. UL Txn Ledger / Smart Contract Infra (Program/Policy constructs)
         1. Solana track
@@ -107,10 +107,11 @@ flows.
         1. Cord track
         1. Ledger Adapter
     1. User (Legal Person) Management (key/signing/PII)
-    1. Unified Ledger - API Services
-        1. Management services
-        1. Transaction services
-        1. Inter Ledger Protocol
+    1. Unified Ledger - API Layer
+        1. Management APIs
+        1. Asset APIs
+        1. Credentials services
+    1. Inter Ledger Protocol
     1. Schema registry (GitHub based schema repository)
 1. Canonical Apps
     1. Money App
