@@ -110,6 +110,7 @@ flows.
     1. Unified Ledger - API/Services Layer
     1. Inter Ledger Protocol
     1. Schema registry (GitHub based schema repository)
+        1. Asset schema
 1. Canonical Apps
     1. Money App
     1. Property App
