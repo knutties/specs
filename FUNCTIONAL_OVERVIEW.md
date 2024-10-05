@@ -96,28 +96,37 @@ flows.
   allows users, token managers, credential managers to participate in
   transaction flows.
 
+## Team structure
+Track Lead - leads a track, need not be expert, but ensures track cadence is run rhythmically
+Members - responsible for delivery/closure of track action items
+Contributors - interested folks with wider contribution role without delivery responsibility
+Experts - occassional involvement for expert viewpoints
+
 ## Working Groups (aka Tracks)
 
 1. Architecture Working Groups
-    1. Core Architecture
-    1. Immutable Proof Store
+    1. Core Architecture  - Track Lead: Shek, Members: Anurag, Sriram 
+       1. Security/Privacy - Track Lead: Jay
+    1. Immutable Proof Store - Track Lead: Amar Tumballi, Members: Pralhad, Anurag, Shek
+    1. Inter Ledger Protocol - Track Lead: Pralhad, Members: Alex Lakatos, Anurag
     1. UL Txn Ledger / Smart Contract Infra (Program/Policy constructs)
-        1. Solana track
-        1. ETH track
-        1. Cord track
-        1. Ledger Adapter
+        1. Solana track - Track Lead: Dhruv, Members: Shek
+        1. ETH track - Track Lead: Sriram, Members: Anurag
+        1. Cord track - Track Lead: Suraj, Members: Srivatsa, Adi
+        1. Ledger Adapter - 
     1. User (Legal Person) Management (key/signing/PII)
     1. Unified Ledger - API/Services Layer
-    1. Inter Ledger Protocol
+    1. Off-chain payments/settlement track
     1. Schema registry (GitHub based schema repository)
         1. Asset schema
-1. Canonical Apps
-    1. Money App
-    1. Property App
-    1. Wallet App
-1. Use Cases
+    1. Digital Infrastructure
+        1. DeDi - Track Lead: 
+        1. Liability Infrastructure
+1. Use Cases and apps
     1. Property
     1. Domestic Money
     1. International Money
-1. Governance and Process Track (Defines working group processes/cadence/documentation etc.  people who can give guidance on principles like privacy,
-   performance, scale etc.)
+    1. Money App
+    1. Property App
+    1. Wallet App
+1. Governance and Process Track (Defines working group processes/cadence/documentation etc.  people who can give guidance on principles like privacy, performance, scale etc.)
