@@ -107,10 +107,7 @@ flows.
         1. Cord track
         1. Ledger Adapter
     1. User (Legal Person) Management (key/signing/PII)
-    1. Unified Ledger - API Layer
-        1. Management APIs
-        1. Asset APIs
-        1. Credentials services
+    1. Unified Ledger - API/Services Layer
     1. Inter Ledger Protocol
     1. Schema registry (GitHub based schema repository)
 1. Canonical Apps
