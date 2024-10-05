@@ -102,31 +102,51 @@ Members - responsible for delivery/closure of track action items
 Contributors - interested folks with wider contribution role without delivery responsibility
 Experts - occassional involvement for expert viewpoints
 
+## TODO
+
 ## Working Groups (aka Tracks)
 
 1. Architecture Working Groups
-    1. Core Architecture  - Track Lead: Shek, Members: Anurag, Sriram 
+    1. Core Architecture  - Track Lead: Shek, Members: Anurag, Sriram, Amar, Natarajan
        1. Security/Privacy - Track Lead: Jay
+       1. Note: interfacing with institution ledgers (for external assets)
     1. Immutable Proof Store - Track Lead: Amar Tumballi, Members: Pralhad, Anurag, Shek
     1. Inter Ledger Protocol - Track Lead: Pralhad, Members: Alex Lakatos, Anurag
-    1. UL Txn Ledger / Smart Contract Infra (Program/Policy constructs)
-        1. Solana track - Track Lead: Dhruv, Members: Shek
-        1. ETH track - Track Lead: Sriram, Members: Anurag
-        1. Cord track - Track Lead: Suraj, Members: Srivatsa, Adi
-        1. Ledger Adapter - 
-    1. User (Legal Person) Management (key/signing/PII)
-    1. Unified Ledger - API/Services Layer
-    1. Off-chain payments/settlement track
-    1. Schema registry (GitHub based schema repository)
-        1. Asset schema
-    1. Digital Infrastructure
-        1. DeDi - Track Lead: 
-        1. Liability Infrastructure
-1. Use Cases and apps
-    1. Property
+    1. UL Txn Ledger / Smart Contract Infra (Program/Policy constructs) - Track Lead: Dhruv, Members: Sriram, Suraj, Anurag, Srivatsa, Adi, Shek
+        1. Solana track
+        1. ETH track
+        1. Cord track
+        1. Ledger Adapter
+    1. User (Legal Person) Management (key/signing/PII) - Track Lead: Gautam, Members: Sriram, Nishant
+    1. Unified Ledger - API/Services Layer - Track Lead: Natarajan, Members: Pralhad
+    1. Off-chain payments/settlement track - Track Lead: TBD, Members: 
+    1. Schema Infra (GitHub based schema repository) - Track Lead: TBD, Member: Suren, Nishant, Shek, Abhishek Sankritik
+        1. Core schemas - Person/Asset/Credential/Policy/Nature etc.
+        1. Functional schemas
+    1. Supporting Infrastructure
+        1. DeDi - Track Lead: Amar 
+        1. Liability Infrastructure - Track Lead: TBD
+        1. Marketplace Infra - Track Lead: (Beckn maybe)
+            1. smart contracts, retail apps etc.
+1. Chapters, Use Cases and Apps
+    1. Universal Use-case Map: Track Lead: Sid, Members: Abhishek R, Gautam, Nars
+    1. Property - Track Lead: Sujatha, Members: Abhishek S 
     1. Domestic Money
-    1. International Money
-    1. Money App
-    1. Property App
+    1. International Money - Track Lead: Abhishek R
+    1. Credit
+    1. Gold - Track Lead: Abhishek S, Members: Arjun 
+    1. Energy
     1. Wallet App
-1. Governance and Process Track (Defines working group processes/cadence/documentation etc.  people who can give guidance on principles like privacy, performance, scale etc.)
+    1. Capital Market - Members: Abhishek R
+    1. User centric welfare delivery
+1. Brand / Consumer Experience - Track Lead: Sid, Members: Anurag
+1. Governance and Process Track - Track Lead: Sid, Members: Natarajan, Abhishek R, Dhruv, Rohit (Defines working group processes/cadence/documentation etc.)
+1. Economic and Social Incentive Mapping - Track Lead: Sid, Members: Anurag, Abhishek R
+1. Legal / Regulatory - Track Lead: Sid, Members: Abhishek S
+
+
+Finalize common tool-sets for working group (tech, business - can use separate toolsets)
+Shared calendars
+Each working group to setup working cadence/rhythm
+Core Arch group - weekly review
+Core Wider Group (core group + track leads) - fortnight review
