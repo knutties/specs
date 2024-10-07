@@ -146,7 +146,12 @@ Experts - occassional involvement for expert viewpoints
 
 
 Finalize common tool-sets for working group (tech, business - can use separate toolsets)
-Shared calendars
-Each working group to setup working cadence/rhythm
-Core Arch group - weekly review
+
+Each working group to setup working cadence/rhythm.
+
+Each working group to setup open calendar - so that meeting details are share-able.
+
+Core Arch group to have a weekly review
+
 Core Wider Group (core group + track leads) - fortnight review
+
